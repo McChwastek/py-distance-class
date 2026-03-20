@@ -79,3 +79,4 @@ class Distance:
         if eq is NotImplemented:
             return NotImplemented
         return not eq
+
